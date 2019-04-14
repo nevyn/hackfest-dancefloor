@@ -8,9 +8,9 @@ This is our entry to [hackfest.lol](https://hackfest.lol). We are
 
 Our dance floor has six tiles. When you step on a tile, it lights up and sends
 a MIDI signal to a connected computer, which can then play music based on the
-MIDI signal. Here's our demo from the hackathon, which gave us first place:
+MIDI signal. Here's our demo from the hackathon, which gave us first place (click to play):
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AkNP8b4DwMU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![](http://img.youtube.com/vi/AkNP8b4DwMU/0.jpg)](http://www.youtube.com/watch?v=AkNP8b4DwMU "Hackathon presentation")
 
 ## High level overview
 
